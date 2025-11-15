@@ -18,10 +18,9 @@ Files are ordered numerically for clarity and ease of navigation.
 | 06 | [Hiring](06.%20hiring.md) |
 | 07 | [Performance](07.%20performance.md) |
 | 08 | [Working](08.%20working.md) |
-| 09 | [Roles](09.%20roles.md) |
-| 10 | [Daily updates](10.%20daily-updates.md) |
-| 11 | [Weekly updates](11.%20weekly-updates.md) |
-| 12 | [Meeting frameworks](12.%20meeting-framework.md) |
+| 09 | [Daily updates](09.%20daily-updates.md) |
+| 10 | [Weekly updates](10.%20weekly-updates.md) |
+| 11 | [Meeting frameworks](11.%20meeting-framework.md) |
 
 ---
 
