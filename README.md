@@ -20,7 +20,6 @@ Files are ordered numerically for clarity and ease of navigation.
 | 08 | [Working](08.%20working.md) |
 | 09 | [Daily updates](09.%20daily-updates.md) |
 | 10 | [Weekly updates](10.%20weekly-updates.md) |
-| 11 | [Meeting frameworks](11.%20meeting-framework.md) |
 
 ---
 
