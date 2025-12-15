@@ -5,7 +5,7 @@ Applies to trials/freelancers
 * Template:
 
 ```md
-### Daily Update – [Name]
+Daily Update – [Name]
 Date: [DD/MM/YYYY]
 
 **1. Time worked:**
@@ -16,7 +16,11 @@ Date: [DD/MM/YYYY]
 - Researched TOPIC and wrote this article: LINK (1h 30min)
 - Reviewed and approved [PR issue name #13655](https://github.com/colonistio/katan/pull/13655) (45min)
 
-**3. Insights (most important part):**
+**3. Insights:**
+> *(What did you learn?)*
+> Please focus on concrete steps or changes that could directly improve the platform or company.
+> Avoid personal or general learnings unless they have a clear and practical impact on Colonist.
+> Format: “I realized/learned A, then did B to improve Colonist.
 ❌ Wrong (no value to Colonist):  
 "Today I learned the history of Colonist."  
 
@@ -28,9 +32,8 @@ Date: [DD/MM/YYYY]
 
 **4. Questions:**
 > *(What questions do you have for us?)*
-- I hope option-a is a good fit, otherwise I might need to change some parts
+- Should I priorotise testing mobile app or Discord app?
 ```
----
 
 ## Details:
 * The update should take 5 minutes max
