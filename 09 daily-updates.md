@@ -30,7 +30,6 @@ Date: [DD/MM/YYYY]
 > *(What questions do you have for us?)*
 - I hope option-a is a good fit, otherwise I might need to change some parts
 ```
----
 
 ## Details:
 * The update should take 5 minutes max
