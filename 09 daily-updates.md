@@ -17,9 +17,6 @@ Date: [DD/MM/YYYY]
 - Reviewed and approved [PR issue name #13655](https://github.com/colonistio/katan/pull/13655) (45min)
 
 **3. Insights (most important part):**
-> *(What did you learn?)*
-> Please focus on concrete steps or changes that could directly improve the platform or company.
-> Avoid personal or general learnings unless they have a clear and practical impact on Colonist.
 > Format: “I realized/learned A, then did B to improve Colonist.
 ❌ Wrong (no value to Colonist):  
 "Today I learned the history of Colonist."  
