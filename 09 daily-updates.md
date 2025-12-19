@@ -13,7 +13,7 @@ Applies to trials/freelancers
 - Researched TOPIC and wrote this article: LINK (1h 30min)
 - Reviewed and approved [PR issue name #13655](https://github.com/colonistio/katan/pull/13655) (45min)
 
-## 3. What insights did you acquire this week?
+## 3. What insights did you acquire?
 > Format: “I realized/learned A, then did B to improve Colonist.
 ❌ Wrong (no value to Colonist):  
 "Today I learned the history of Colonist."  
